@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 594
+slug  : the-last-king-of-osten-ard
+seal  : 505e8d441babb1fae7b49141d14646e9997af2716ecce73bec9e9ec3c3279b3d
+prev  : c504624bc6ff6334ddd06e08592ccb04ee57a733eaea32ebc3a3fdb1816220e3
+link  : d60cede634d5d1133243451da9d112b26acdcaa21e0e26313ebfffa13d6abb75
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.

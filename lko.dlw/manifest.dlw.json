@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "Thirty years on, the heroes are old and the Norns return — the second great Osten Ard saga, bracketed by the wound that began it all.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 594,
+    "prev": "c504624bc6ff6334ddd06e08592ccb04ee57a733eaea32ebc3a3fdb1816220e3",
+    "link": "d60cede634d5d1133243451da9d112b26acdcaa21e0e26313ebfffa13d6abb75",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
